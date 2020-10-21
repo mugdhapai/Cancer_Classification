@@ -1,6 +1,6 @@
 # Cancer_Classification
 
-![image](https://images.unsplash.com/photo-1571986584949-8ebd7cd2151b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
+![image](https://s3.amazonaws.com/utep-uploads/wp-content/uploads/online-regis-college/2018/03/12110152/RCMSN-Oct-1.jpg)
 
 This folder contains the work for Breast Cancer classifcation project. The goal of the machine learning model is to be able to diffrentiate between malignant and benign tumors based on the tumor shape and its geometry. 
 The data was extracted from Kaggle:
@@ -15,13 +15,13 @@ The data was extracted from Kaggle:
 
 2. Code
 
-   This folder has [wine quality code](https://github.com/mugdhapai/Cancer_Classification/blob/main/Code/cancer_classification.ipynb) file which is a jupyter notebook containing all    the code for the project.
+   This folder has [cancer classification code](https://github.com/mugdhapai/Cancer_Classification/blob/main/Code/cancer_classification.ipynb) file which is a jupyter notebook containing all    the code for the project.
 
 3. Reports
 
    This folder includes all the reports describing the findings and their summaries. The reports include:
    
-   - [Milestone Report](https://github.com/mugdhapai/Cancer_Classification/blob/main/Code/cancer_classification.ipynb)
+   - [Milestone Report](https://github.com/mugdhapai/Cancer_Classification/blob/main/Reports/Milestone%20report.pdf)
      
      Interim report containing summaries of the data wrangling, data story and statistical analysis techniques used. 
    
